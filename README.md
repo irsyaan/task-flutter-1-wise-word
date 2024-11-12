@@ -16,7 +16,7 @@
 
 ## History page
 
-![5](https://github.com/user-attachments/assets/6aac1621-22cb-4f84-859e-d0a1d6d5601d)
+![5](https://github.com/user-attachments/assets/f376f4a3-247f-4791-adb7-4d385162bf2a)
 
 ## History page when the clear all button is pressed
 
