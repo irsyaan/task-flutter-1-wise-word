@@ -14,7 +14,7 @@
 
 ![4](https://github.com/user-attachments/assets/b48fede6-7ae5-4e5c-a377-3029ed21e266)
 
-## History page
+## History page with the snackbar
 
 ![5](https://github.com/user-attachments/assets/f376f4a3-247f-4791-adb7-4d385162bf2a)
 
