@@ -1,46 +1,24 @@
-# Tutorial - Flutter Wise Word
+## Home Page
 
-a Generator Wise Word with flutter for mobile with Codetour for tutorial purpose.
+![1](https://github.com/user-attachments/assets/ea33340e-2e08-4fbe-8d8b-c96a84fb1ca4)
 
-<p align="center">
-    <img src="docs/overview.png">
-    <img src="docs/result.png" height="350px">
-</p>
+## Favorite button is clicked
 
-## What's covered
+![2](https://github.com/user-attachments/assets/e303ba92-b292-4cfd-b0d1-cafb71f9ea0d)
 
-- The basics of how Flutter works
-- Creating layouts in Flutter
-- Connecting user interactions (like button presses) to app behavior
-- Keeping your Flutter code organized
-- Switching page with Navigation Bar
-- Achieving a consistent look & feel of your app
+## Favorite page with the snackbar
 
-## Not mentioned
+![3](https://github.com/user-attachments/assets/aed2a750-37cb-4323-af7a-9162bd75c2d3)
 
-- Reference Material from: https://codelabs.developers.google.com/codelabs/flutter-codelab-first
-  - Using Navigation Bar instead Navigation Rail
-- Target: Mobile
-- Including Code Tour
-  - Each topic has spesific commit
-  - Script to automatically reclone with spesific commit, see on [vscode-open-commit.sh](./script/vscode-open-commit.sh)
+## Favorite page when long press the word (in this case the word is 'flatnorth'
 
-## How to use
+![4](https://github.com/user-attachments/assets/b48fede6-7ae5-4e5c-a377-3029ed21e266)
 
-- Clone repository
-- Open with VSCode, Flutter SDK and Mobile (Android or iOS) SDK
-- Enable Flutter and Dart VSCode extension
-- Enable Codetour VSCode extension (https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
-- Follow Codetour topic and step, each topic has script to automatically reclone with spesific commit.
+## History page
 
-## Support
+![5](https://github.com/user-attachments/assets/6aac1621-22cb-4f84-859e-d0a1d6d5601d)
 
-If you have any questions or encounter any issues, feel free to open an issue and we will assist you in resolving them.
+## History page when the clear all button is pressed
 
-## Contribute
+![6](https://github.com/user-attachments/assets/c5d86dea-93a9-4764-87db-36335afdd6ac)
 
-Feel free to contribute, don't forget to mention if needed
-
-## Author and Contributor
-
-- [@raditzlawliet](https://github.com/raditzlawliet/)
